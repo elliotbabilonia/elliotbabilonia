@@ -17,4 +17,4 @@
 - Reach me at elliotbabilonia@gmail.com for inquiries.
 
 ![Elliot's GitHub stats](https://github-readme-stats.vercel.app/api?username=elliotbabilonia&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elliotbabilonia)](https://github.com/elliotbabilonia/github-readme-stats)
+### :hammer_and_wrench:
