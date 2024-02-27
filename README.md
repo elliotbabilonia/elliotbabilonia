@@ -9,4 +9,4 @@
 - Hobbies: I play video games on PS5 and Nintendo Switch and I have been playing guitar for 5 years.
 - I am currently a Data Science Fellow at The Knowledge House.
 
-- Reach me at elliotbabilonia@gmail.com for inquiries.
+- Reach me at elliotbabilonia@gmail.com for inquiries. Feel free to connect with me on LinkedIn https://www.linkedin.com/in/elliot-babilonia-035504239/
