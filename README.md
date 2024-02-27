@@ -1,5 +1,7 @@
 ### Hello, my name is Elliot Babilonia 👋
 
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 <div align="left">
     <!-- Replace href with your links -->
     <a href="https://www.linkedin.com/in/elliot-babilonia-035504239/">
@@ -18,3 +20,7 @@
 
 ![Elliot's GitHub stats](https://github-readme-stats.vercel.app/api?username=elliotbabilonia&show_icons=true&theme=transparent)
 ### :hammer_and_wrench:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" />
