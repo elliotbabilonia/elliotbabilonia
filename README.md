@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div align="center">
+<div align="left">
     <!-- Replace href with your links -->
     <a href="https://www.linkedin.com/in/elliot-babilonia-035504239/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -18,3 +18,5 @@
 - I am currently a Data Science Fellow at The Knowledge House.
 
 - Reach me at elliotbabilonia@gmail.com for inquiries.
+
+![Elliot's GitHub stats](https://github-readme-stats.vercel.app/api?username=elliotbabilonia&show_icons=true&theme=transparent)
