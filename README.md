@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, my name is Elliot Babilonia 👋
 
 <div align="left">
     <!-- Replace href with your links -->
@@ -6,9 +6,6 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
 </div>
-
-
-- My name is Elliot Babilonia and...
 
 - I have experience in Machine Learning and Data Visualization in Python as well as making interactive websites with HTML, CSS and JavaScript.
 - Pandas, Numpy, sk-learn, matplotlib, seaborn, and more!
@@ -20,3 +17,4 @@
 - Reach me at elliotbabilonia@gmail.com for inquiries.
 
 ![Elliot's GitHub stats](https://github-readme-stats.vercel.app/api?username=elliotbabilonia&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elliotbabilonia)](https://github.com/elliotbabilonia/github-readme-stats)
