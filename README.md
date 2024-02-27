@@ -2,7 +2,7 @@
 
 <div align="center">
     <!-- Replace href with your links -->
-    <a href="[(https://www.linkedin.com/in/elliot-babilonia-035504239/)]">
+    <a href="https://www.linkedin.com/in/elliot-babilonia-035504239/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
 </div>
