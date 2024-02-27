@@ -19,8 +19,3 @@
 - Reach me at elliotbabilonia@gmail.com for inquiries.
 
 ![Elliot's GitHub stats](https://github-readme-stats.vercel.app/api?username=elliotbabilonia&show_icons=true&theme=transparent)
-### :hammer_and_wrench:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" />
